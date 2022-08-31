@@ -1,12 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@import url(@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"););
 
 @font-face {
-	font-family: 'icomoon';
-	src:url('../fonts/icomoon.eot');
-	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/icomoon.woff') format('woff'),
-		url('../fonts/icomoon.ttf') format('truetype'),
-		url('../fonts/icomoon.svg#icomoon') format('svg');
+	font-family: "Open Sans", sans-serif;';
 	font-weight: normal;
 	font-style: normal;
 }
