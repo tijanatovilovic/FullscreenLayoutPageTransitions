@@ -1,7 +1,12 @@
-@import url(@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"););
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 @font-face {
-	font-family: "Open Sans", sans-serif;';
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot');
+	src:url('../fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.woff') format('woff'),
+		url('../fonts/icomoon.ttf') format('truetype'),
+		url('../fonts/icomoon.svg#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -17,7 +22,7 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 }
 
 body {
-    font-family: 'Open Sans', Calibri, sans-serif;
+    font-family: 'icomoon', Calibri,Arial sans-serif;
     color: #f2ede3;
     background: #333;
     font-size: 0.9em;
