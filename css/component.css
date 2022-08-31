@@ -17,7 +17,7 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 }
 
 body {
-    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-family: 'Open Sans', Calibri, sans-serif;
     color: #f2ede3;
     background: #333;
     font-size: 0.9em;
@@ -25,7 +25,7 @@ body {
 }
 
 a {
-	color: #f0f0f0;
+	color: ##FFFFFF;
 	text-decoration: none;
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -56,25 +56,25 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-	background: #F06060;
+	background: #9E9E9E;
 }
 
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: #FA987D;
+	background: #212121;
 }
 
 .bl-main > section:nth-child(3) {
 	top: 50%;
 	left: 0;
-	background: #72CCA7;
+	background: #9E9E9E;
 }
 
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-	background: #10A296;
+	background: #212121;
 }
 
 .bl-box {
